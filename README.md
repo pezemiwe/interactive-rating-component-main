@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-## URL: [INTERACTIVE-RATING-COMPONENT](https://interactive-rating-component-main2-e8lms6ky6-pezemiwe.vercel.app/)
+## URL: [INTERACTIVE-RATING-COMPONENT](https://pezemiwe.github.io/interactive-rating-component-main/)
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [INTERACTIVE-RATING-COMPONENT](https://interactive-rating-component-main2-e8lms6ky6-pezemiwe.vercel.app/)
+- Live Site URL: [INTERACTIVE-RATING-COMPONENT](https://pezemiwe.github.io/interactive-rating-component-main/)
 
 ## My process
 
