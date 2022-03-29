@@ -1,7 +1,8 @@
 # Frontend Mentor - Interactive rating component solution
-## URL: [INTERACTIVE-RATING-COMPONENT](https://pezemiwe.github.io/interactive-rating-component-main/)
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+## URL: [INTERACTIVE-RATING-COMPONENT](https://interactive-rating-component-main2-e8lms6ky6-pezemiwe.vercel.app/)
+
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -21,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [INTERACTIVE-RATING-COMPONENT](https://pezemiwe.github.io/interactive-rating-component-main/)
+- Live Site URL: [INTERACTIVE-RATING-COMPONENT](https://interactive-rating-component-main2-e8lms6ky6-pezemiwe.vercel.app/)
 
 ## My process
 
@@ -31,7 +32,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - JavaScript
-
 
 ### What I learned
 
@@ -52,4 +52,3 @@ I hope to continue developing myself in frontend technology tools especially jav
 ## Acknowledgments
 
 I acknowledge the Odogwu himself [Orji Ikechukwu](https://github.com/jojitoon) for the hindsight given to help accomplish this project. Thanks.
-
